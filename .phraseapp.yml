@@ -1,14 +1,14 @@
 phraseapp:
   access_token: d074a3845b29cebbbec59127a4fe128c1e88546c22c80d30c79e80ca7a1efbfe
   project_id: a4844a031943b41dc8debbac1d38d3b5
-  file_format: json
+  file_format: simple_json
   push:
     sources:
     - file: ./src/local-assets/i18n/<locale_name>.json
       params:
-        file_format: json
+        file_format: simple_json
   pull:
     targets:
     - file: ./src/local-assets/i18n/<locale_name>.json
       params:
-        file_format: json
+        file_format: simple_json
