@@ -1,0 +1,11 @@
+{
+  "cancel": {
+    "message": "Annuler"
+  },
+  "save": {
+    "message": "Enregistrer"
+  },
+  "search.advanced": {
+    "message": "Recherche avancée"
+  }
+}

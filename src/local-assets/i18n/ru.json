@@ -1,0 +1,11 @@
+{
+  "cancel": {
+    "message": "Отмена"
+  },
+  "save": {
+    "message": "Сохранить"
+  },
+  "search.advanced": {
+    "message": "Расширенный поиск"
+  }
+}
