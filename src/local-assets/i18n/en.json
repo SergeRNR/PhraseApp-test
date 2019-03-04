@@ -1,12 +1,5 @@
 {
-    "yes": "yes",
-    "no": "no",
-    "or": "or",
-    "cancel": "Cancel",
-    "close": "Close",
-    "save": "Save",
-    "back": "Back",
-    "add": "Add",
-    "apply": "Apply",
-    "search.advanced": "Advanced search"
+  "cancel": "Cancel",
+  "save": "Save",
+  "search.advanced": "Advanced search"
 }
