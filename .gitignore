@@ -1,0 +1,10 @@
+**/node_modules/
+bower_components/
+.sass-cache/
+.idea/
+.vscode/
+**/.tmp/
+allure-*/
+**/entity-service/.storage/
+dist/
+/i18n/
