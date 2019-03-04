@@ -5,10 +5,10 @@ phraseapp:
   push:
     sources:
     - file: ./src/local-assets/i18n/<locale_name>.json
-       params:
+      params:
         file_format: json
   pull:
     targets:
     - file: ./src/local-assets/i18n/<locale_name>.json
-       params:
+      params:
         file_format: json
