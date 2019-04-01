@@ -1,3 +1,7 @@
 {
-  "new": "New value"
+  "cancel": "Cancel",
+  "new": "New",
+  "old": "Old",
+  "save": "Save",
+  "search.advanced": "Advanced search"
 }
