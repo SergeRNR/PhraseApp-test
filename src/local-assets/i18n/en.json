@@ -1,6 +1,7 @@
 {
   "cancel": "Cancel",
+  "new": "New",
+  "old": "Old",
   "save": "Save",
-  "search.advanced": "Advanced search",
-  "new": "New"
+  "search.advanced": "Advanced search"
 }
